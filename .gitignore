@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Virtual Environment
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# System Files
+.DS_Store
+
+# Project specific
+chroma_db/
+ENGINEERING/
+*.log
+
+# Documentation
+Documentationz/
